@@ -25,6 +25,6 @@ int main(){
         }
         printf("%.1f\n", prob*100.0);
     }
-
+//markov chain kont*l cok asu cik
 return 0;
 }
